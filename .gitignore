@@ -1,0 +1,8 @@
+## .gitignore
+*.txt
+*.zip
+*.rds
+.Rhistory
+.Rdata
+.Rapp.history
+Plot4_USCoalEmissions.R
